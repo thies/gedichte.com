@@ -1,4 +1,4 @@
-<img src="gedichte_com.png">
+<img src="gedichte_com.png" width="50%">
 
 # Gedichte.com ist nicht erreichbar
 
@@ -9,6 +9,6 @@ Wie es weiter gehen wird, wei&szlig; ich derzeit nicht. Bald mehr.
 Thies
 
 
-<img src="https://pbs.twimg.com/media/EwG6KMxWYAs_lkY?format=jpg&name=large">
-Hier etwas mehr Hintergrundinformationen [Klick](https://www.datacenterdynamics.com/en/news/ovh-fire-update-four-halls-sbg1-destroyed-well-all-sbg2/) ist passiert.
+<img src="ovh.jpeg">
+Hier etwas mehr <a href="https://www.datacenterdynamics.com/en/news/ovh-fire-update-four-halls-sbg1-destroyed-well-all-sbg2/">Hintergr&uuml;nde</a>.
 
